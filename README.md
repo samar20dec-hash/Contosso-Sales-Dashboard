@@ -83,4 +83,4 @@ All filters are currently set to "All," indicating a global, unfiltered view.
 - **Operational Efficiency:** By comparing sales, expenses, and net profit, stakeholders can assess operational efficiency and identify areas for cost optimization.
 
 ## 6. Screenshots / Demos
-![Contosso Financial Performance Dashboard](image.png)
+![Contosso Financial Performance Dashboard](https://github.com/samar20dec-hash/Contosso-Sales-Dashboard/blob/adc5d577ca397c361522a5d3a91874eea28b4fb0/Contosso%20Financial%20Performance%20Dashboard.png)
