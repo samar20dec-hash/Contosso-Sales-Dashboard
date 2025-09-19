@@ -2,10 +2,10 @@
 
 ## 1. Project Title / Headline
 Contosso Financial Performance Dashboard
-A dynamic, interactive Power BI report designed to provide comprehensive insights into Contoso's sales, profit, and expense metrics across various dimensions like time, product brand, and geography.
+A dynamic, interactive Power BI report designed to provide comprehensive insights into contosso's sales, profit, and expense metrics across various dimensions like time, product brand, and geography.
 
 ## 2. Short Description / Purpose
-The Contosso Financial Performance Dashboard is a visually engaging and analytical Power BI report designed to help users explore and understand the company's financial health and operational efficiency. It focuses on key performance indicators such as sales, profit, and expenses, broken down by year, month, quarter, product brand, and geographical regions. This tool is intended for use by financial analysts, sales managers, business strategists, and executives who seek to monitor performance, identify trends, and make data-driven decisions for Contoso.
+The Contosso Financial Performance Dashboard is a visually engaging and analytical Power BI report designed to help users explore and understand the company's financial health and operational efficiency. It focuses on key performance indicators such as sales, profit, and expenses, broken down by year, month, quarter, product brand, and geographical regions. This tool is intended for use by financial analysts, sales managers, business strategists, and executives who seek to monitor performance, identify trends, and make data-driven decisions for contosso.
 
 ## 3. Tech Stack
 The dashboard was built using the following tools and technologies:
@@ -16,9 +16,9 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 ## 4. Data Source
-Source: Internal Contoso Sales and Financial Databases.
+Source: Internal contosso Sales and Financial Databases.
 
-Data on Contoso's sales transactions, discounts, returns, cost of goods, and net profit, structured by various dimensions including time (year, month, quarter), product categories, channels, stores, and geographical locations (city, state/province, region/country, continent).
+Data on contosso's sales transactions, discounts, returns, cost of goods, and net profit, structured by various dimensions including time (year, month, quarter), product categories, channels, stores, and geographical locations (city, state/province, region/country, continent).
 
 ## 5. Features / Highlights
 
@@ -32,7 +32,7 @@ Contosso, a global enterprise, needs a consolidated view of its financial perfor
 
 • **Goal of the Dashboard**
 To deliver an interactive visual tool that:
-- Provides a real-time overview of Contoso's key financial metrics.
+- Provides a real-time overview of contosso's key financial metrics.
 - Enables users to drill down into performance by various dimensions (time, product, geography).
 - Supports strategic decisions related to sales, marketing, product development, and regional operations.
 - Uncovers trends and anomalies in financial data to facilitate proactive management.
@@ -58,7 +58,7 @@ This visual presents a combined bar and line chart showing monthly Net Profit (g
 A bar chart illustrating the cumulative Net Profit over time, broken down by year and quarter from Q1 2007 to Q4 2009. The bars progressively increase, showing the running total of net profit, indicating consistent growth in overall net profit.
 
 - **Year Over Year By Product Brand (Bottom Left Waterfall/Bar Chart)**
-This chart visualizes the year-over-year performance for various Contoso product brands, including Contoso, Fabrikam, Adventure Wor..., Proseware, Litware, Wide World Im..., A. Datum, The Phone Co..., Southridge Vid..., Northwind Tra..., and Tailspin Toys. It uses green bars to indicate increases and allows for quick identification of top-performing or underperforming brands.
+This chart visualizes the year-over-year performance for various contosso product brands, including contosso, Fabrikam, Adventure Wor..., Proseware, Litware, Wide World Im..., A. Datum, The Phone Co..., Southridge Vid..., Northwind Tra..., and Tailspin Toys. It uses green bars to indicate increases and allows for quick identification of top-performing or underperforming brands.
 
 - **Geographical Performance Table (Bottom Right Table)**
 A detailed table breaking down financial metrics by Continent Name, with drill-down capabilities for specific regions/cities. It displays Total Sales, Total Expenses, Net Profit, and Net Quantity. The "Asia" continent is expanded, showing data for Beijing, GuangDong, Seoul-jikhalsi, Hokkaido, Chubu, Islamabad Capital Territory, New South Wales, and Krung Thep, allowing for granular analysis of regional contributions.
