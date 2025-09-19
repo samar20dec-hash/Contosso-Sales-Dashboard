@@ -1,11 +1,11 @@
-# Contoso Financial Performance Dashboard
+# Contosso Financial Performance Dashboard
 
 ## 1. Project Title / Headline
-📊 Contoso Financial Performance Dashboard
+Contosso Financial Performance Dashboard
 A dynamic, interactive Power BI report designed to provide comprehensive insights into Contoso's sales, profit, and expense metrics across various dimensions like time, product brand, and geography.
 
 ## 2. Short Description / Purpose
-The Contoso Financial Performance Dashboard is a visually engaging and analytical Power BI report designed to help users explore and understand the company's financial health and operational efficiency. It focuses on key performance indicators such as sales, profit, and expenses, broken down by year, month, quarter, product brand, and geographical regions. This tool is intended for use by financial analysts, sales managers, business strategists, and executives who seek to monitor performance, identify trends, and make data-driven decisions for Contoso.
+The Contosso Financial Performance Dashboard is a visually engaging and analytical Power BI report designed to help users explore and understand the company's financial health and operational efficiency. It focuses on key performance indicators such as sales, profit, and expenses, broken down by year, month, quarter, product brand, and geographical regions. This tool is intended for use by financial analysts, sales managers, business strategists, and executives who seek to monitor performance, identify trends, and make data-driven decisions for Contoso.
 
 ## 3. Tech Stack
 The dashboard was built using the following tools and technologies:
@@ -23,7 +23,7 @@ Data on Contoso's sales transactions, discounts, returns, cost of goods, and net
 ## 5. Features / Highlights
 
 • **Business Problem**
-Contoso, a global enterprise, needs a consolidated view of its financial performance to quickly assess profitability, identify high-performing areas, and pinpoint potential issues. Without an integrated dashboard, answering critical questions such as:
+Contosso, a global enterprise, needs a consolidated view of its financial performance to quickly assess profitability, identify high-performing areas, and pinpoint potential issues. Without an integrated dashboard, answering critical questions such as:
 - What are the monthly and quarterly profit trends?
 - Which product brands are driving year-over-year growth?
 - How do sales and profits vary across different continents or regions?
@@ -83,4 +83,4 @@ All filters are currently set to "All," indicating a global, unfiltered view.
 - **Operational Efficiency:** By comparing sales, expenses, and net profit, stakeholders can assess operational efficiency and identify areas for cost optimization.
 
 ## 6. Screenshots / Demos
-![Contoso Financial Performance Dashboard](Contosso Financial Performance Dashboard.png)
+![Contosso Financial Performance Dashboard](image.png)
